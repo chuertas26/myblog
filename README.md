@@ -18,5 +18,4 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 
 📫 **Contacto & Redes:**
 * **GitHub:** [chuertas26](https://github.com/chuertas26)
-* **LinkedIn:** *(https://www.linkedin.com/in/chuertasr)*
-* 
+* **LinkedIn:** [Cristina Huertas](https://www.linkedin.com/in/chuertasr)
