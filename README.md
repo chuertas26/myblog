@@ -7,9 +7,9 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 ---
 **ARTICULOS**
 
-* [📦 Caso de Estudio: Tutrocito y la Auditoría de Procesos/CX](articulos/caso-tutrocito.md)
+* [📦 Caso de Estudio: *[📦 La compra sale mal... pero soy Analista Funcional](articulos/rticulos/casodelacompra.md)
 
-> 🔗 **La Guía Galáctica - Publicación original en LinkedIn:** (https://lnkd.in/p/eqecRX9p)
+* 🔗 **La Guía Galáctica - Publicación original en LinkedIn:**
 
 ### 📚 Próximas publicaciones y artículos en construcción:
 
