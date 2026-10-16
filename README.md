@@ -1,4 +1,4 @@
-# 🚀 Blog & CV Narrativo | Tina
+# 🚀 Blog & CV Narrativo | Cristina Huertas
 
 ¡Bienvenido/a a mi espacio personal y profesional! 
 
