@@ -10,6 +10,7 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 * [📦 La compra sale mal... pero soy Analista Funcional](rticulos/casodelacompra.md)
 * [🚀 La Ruta Galáctica: Co-creación y Prompt Engineering con IA](rticulos/ruta-galactica-ia.md)
 * [🏗️ Arqueología Operativa: De los planos a mano en libretas de espiral al MS Paint (2007)](rticulos/planos.md)
+* [🏗️ Desde la palestra: Protocolos de crisis y la delgada línea entre el SLA y la supervivencia (2005)](rticulos/palestra.md)
 
 ### 📚 Próximas publicaciones y artículos en construcción:
 
