@@ -5,8 +5,11 @@
 Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de encuentro entre mi trayectoria técnica en infraestructuras y sistemas, mis experimentos en inteligencia artificial y las vivencias e historias reales que han moldeado mi forma de analizar problemas, gestionar el estrés y liderar en situaciones de crisis.
 
 ---
+**ARTICULOS**
 
 * [📦 Caso de Estudio: Tutrocito y la Auditoría de Procesos/CX](articulos/caso-tutrocito.md)
+
+> 🔗 **La Guía Galáctica - Publicación original en LinkedIn:** (https://lnkd.in/p/eqecRX9p)
 
 ### 📚 Próximas publicaciones y artículos en construcción:
 
