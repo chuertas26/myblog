@@ -12,10 +12,16 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 * [🏗️ Arqueología Operativa: De los planos a mano en libretas de espiral al MS Paint (2007)](rticulos/planos.md)
 * [🏗️ Desde la palestra: Protocolos de crisis y la delgada línea entre el SLA y la supervivencia (2005)](rticulos/palestra.md)
 
-### 📚 Próximas publicaciones y artículos en construcción:
+---
+## 🕰️ Orígenes & Reflexiones (Archivo 2020)
+*Los inicios del blog, la búsqueda de empleo y la toma de impulso previa al salto técnico.*
 
-* 🏗️ **Desde la palestra** *(En redacción)*  
-  *Una reflexión sobre gestión de crisis, protocolos en operaciones y el aprendizaje real sobre el terreno tras vivir un evento crítico en 2005.*
+- [🚲 Mi primera entrada (Enero 2020)](articulos/origenes-2020/mi-primera-entrada.md)
+- [🥊 Entrenando: Crónicas de búsqueda de empleo (Febrero 2020)](articulos/origenes-2020/entrenando.md)
+- [🔮 El futuro ya está aquí (Octubre 2020)](articulos/origenes-2020/el-futuro-ya-esta-aqui.md)
+
+---
+### 📚 Próximas publicaciones y artículos en construcción:
 
 * 🕵️‍♀️ **Arriba, jugando a los espías (Mayo 1995)** *(Próximamente)*  
   *Vulnerabilidades de seguridad, observación y curiosidad analítica a los 6 años en las tripas del Hotel Chamartín.*
