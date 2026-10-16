@@ -6,6 +6,8 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 
 ---
 
+* [📦 Caso de Estudio: Tutrocito y la Auditoría de Procesos/CX](articulos/caso-tutrocito.md)
+
 ### 📚 Próximas publicaciones y artículos en construcción:
 
 * 🏗️ **Desde la palestra** *(En redacción)*  
