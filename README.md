@@ -16,9 +16,9 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 ## 🕰️ Orígenes & Reflexiones (Archivo 2020)
 *Los inicios del blog, la búsqueda de empleo y la toma de impulso previa al salto técnico.*
 
-- [🚲 Mi primera entrada (Enero 2020)](articulos/origenes-2020/mi-primera-entrada.md)
-- [🥊 Entrenando: Crónicas de búsqueda de empleo (Febrero 2020)](articulos/origenes-2020/entrenando.md)
-- [🔮 El futuro ya está aquí (Octubre 2020)](articulos/origenes-2020/el-futuro-ya-esta-aqui.md)
+- [🚲 Mi primera entrada (Enero 2020)](rticulos/origenes-2020/mi-primera-entrada.md)
+- [🥊 Entrenando: Crónicas de búsqueda de empleo (Febrero 2020)](rticulos/origenes-2020/entrenando.md)
+- [🔮 El futuro ya está aquí (Octubre 2020)](rticulos/origenes-2020/el-futuro-ya-esta-aqui.md)
 
 ---
 ### 📚 Próximas publicaciones y artículos en construcción:
