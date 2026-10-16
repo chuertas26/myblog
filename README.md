@@ -5,11 +5,10 @@
 Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de encuentro entre mi trayectoria técnica en infraestructuras y sistemas, mis experimentos en inteligencia artificial y las vivencias e historias reales que han moldeado mi forma de analizar problemas, gestionar el estrés y liderar en situaciones de crisis.
 
 ---
-**ARTICULOS**
+## 📚 Artículos y Casos de Estudio
 
-* [📦 Caso de Estudio: *[📦 La compra sale mal... pero soy Analista Funcional](articulos/rticulos/casodelacompra.md)
-
-* 🔗 **La Guía Galáctica - Publicación original en LinkedIn:**
+* [📦 La compra sale mal... pero soy Analista Funcional](rticulos/casodelacompra.md)
+* [🚀 La Ruta Galáctica: Co-creación y Prompt Engineering con IA](rticulos/ruta-galactica-ia.md)
 
 ### 📚 Próximas publicaciones y artículos en construcción:
 
