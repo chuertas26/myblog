@@ -24,7 +24,7 @@ Soy **Analista de Sistemas y Operaciones IT**. Este blog nace como un punto de e
 ### 📚 Próximas publicaciones y artículos en construcción:
 
 * 🕵️‍♀️ **Arriba, jugando a los espías (Mayo 1995)** *(Próximamente)*  
-  *Vulnerabilidades de seguridad, observación y curiosidad analítica a los 6 años en las tripas del Hotel Chamartín.*
+  *Vulnerabilidades de seguridad, observación y curiosidad analítica a los 8 años en las tripas del Hotel Chamartín.*
 
 ---
 
