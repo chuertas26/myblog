@@ -43,7 +43,7 @@ Mirar atrás y hojear esos más de 70 planos te hace sonreír, pero sobre todo r
 
 ### 📖 Cuaderno de Espiral (Trazados a mano)
 
-<img src="img/IMG_3712.JPG" width="400" alt="Portada Leonardo DiCaprio" />
+<img src="rticulos/Plaintext   img/IMG_3712.JPG" width="400" alt="Portada Leonardo DiCaprio" />
 <img src="img/IMG_3713.JPG" width="400" alt="Portada Backstreet Boys y planos" />
 
 <br/>
